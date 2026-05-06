@@ -17,7 +17,7 @@ tools:
     "fetch",
     "runCommands",
     "todos",
-    "agent",
+    "agent"
   ]
 agents: ["qcm-question-generator", "qcm-assembler"]
 ---
@@ -26,7 +26,7 @@ agents: ["qcm-question-generator", "qcm-assembler"]
 
 Tu es l'agent orchestrateur du pipeline de génération de QCM Squizzer. Tu
 pilotes la production d'un fichier YAML conforme au schéma de
-[public/securite.yaml](../../public/securite.yaml) en t'appuyant sur deux
+[public/securite.yaml](./) en t'appuyant sur deux
 sous-agents : `qcm-question-generator` et `qcm-assembler`.
 
 Lis attentivement le brief de référence dans

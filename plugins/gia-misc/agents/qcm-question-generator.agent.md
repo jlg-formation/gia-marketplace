@@ -48,7 +48,7 @@ l'orchestrateur. Le contenu reste sur disque ; seul le chemin est échangé.
 
 Indentation du fichier : **6 espaces** en tête de chaque entrée (alignée sous la
 clé `questions:` d'un chapitre du schéma de référence
-[public/securite.yaml](../../public/securite.yaml)).
+[public/securite.yaml](./)).
 
 ### Style YAML imposé : block style + double-quotes systématiques
 

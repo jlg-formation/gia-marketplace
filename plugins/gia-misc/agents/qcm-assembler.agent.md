@@ -19,7 +19,7 @@ fichier YAML final d'un QCM Squizzer. Tu ne génères pas de questions ; tu
 assembles celles déjà produites.
 
 Tu es invoqué par l'agent `qcm-orchestrator`. Schéma de référence :
-[public/securite.yaml](../../public/securite.yaml).
+[public/securite.yaml](./).
 
 ## Entrée attendue (dans le prompt)
 
@@ -184,7 +184,7 @@ Retourne à l'orchestrateur un récapitulatif court :
 - **Jamais** de balises de code ` ``` ` dans le fichier YAML produit.
 - **Jamais** supprimer les fichiers temporaires si une vérification a échoué.
 - En cas de doute sur l'indentation, se référer à
-  [public/securite.yaml](../../public/securite.yaml).
+  [public/securite.yaml](./).
 
 ## Format de réponse à l'orchestrateur
 
