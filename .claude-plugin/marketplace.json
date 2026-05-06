@@ -1,0 +1,13 @@
+{
+  "name": "gia-marketplace",
+  "owner": {
+    "name": "Jean-Louis"
+  },
+  "plugins": [
+    {
+      "name": "gia-misc",
+      "source": "./plugins/gia-misc",
+      "description": "Plugin de la formation GIA (from market place)"
+    }
+  ]
+}
